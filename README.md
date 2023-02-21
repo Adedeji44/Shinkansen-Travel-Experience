@@ -1,4 +1,4 @@
-## Shinkansen_Travel_Experience - Supervised Learning Classification
+## Shinkansen_Travel_Experience - Supervised Learning - Classification Problem
 
 Time performance of the trains along with passenger information is published in a file named ‘Traveldata_train.csv’.  These passengers were later asked to provide their feedback on various parameters related to the travel along with their overall experience. These collected details are made available in the survey report labeled ‘Surveydata_train.csv’
 
